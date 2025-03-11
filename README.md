@@ -1,10 +1,8 @@
 ## About
 
-UE5 Plugin to export animation sequence curve data to csv.
+UE5 Plugin to export animation sequence curve data to csv. Compatible with 5.4+.
 
-## Getting Started
-
-### Installation
+## Installation
 
 Download this repo and copy it into the Plugins folder of your project.
 
