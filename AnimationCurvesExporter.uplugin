@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnimationCurvesExporter",
+	"Description": "Export curve data from one or more animation sequences.",
+	"Category": "Other",
+	"CreatedBy": "Isaac Vidrine",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AnimationCurvesExporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
