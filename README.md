@@ -1,6 +1,6 @@
 ## About
 
-UE5 Plugin to bulk export animation sequence curve data to csv.
+UE5 plugin to bulk export animation sequence curve data. Specify an output directory, one or more animation sequences and one or more curve names. Exports time/value pairs to csv for each animation and curve.
 
 ## Installation
 
