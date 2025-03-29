@@ -71,7 +71,6 @@ void UAnimCurves::ExportCurveFromAnim(UAnimSequence* AnimSequence, const FString
     }
 
     FString CSVText;
-    CSVText.Append(TEXT("Time,Value\n"));
 
     for (int32 i = 0; i < Times.Num(); ++i)
     {
