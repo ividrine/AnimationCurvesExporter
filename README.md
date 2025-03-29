@@ -10,4 +10,4 @@ Download this repo and copy it into the Plugins folder of your project. Supports
 
 Access the plugin under Tools > Anim Curves Exporter
 
-![Alt text](AnimationCurvesExporter/Resources/PluginWindow.png?raw=true "Anim Curves Exporter")
+![Alt text](PluginWindow.png?raw=true "Anim Curves Exporter")
