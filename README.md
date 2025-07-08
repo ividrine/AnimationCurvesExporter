@@ -4,7 +4,7 @@ Plugin for UE5 to export animation sequence curve data. Specify an output direct
 
 ## Installation
 
-Download this repo and copy it into the Plugins folder of your project. Supports engine versions 5.4 and above.
+Download this repo and copy it into the Plugins folder of your project. Supported on engine version 5.4.
 
 ## Usage
 
